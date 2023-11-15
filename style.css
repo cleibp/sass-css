@@ -1,0 +1,37 @@
+.btn-pattern, .btn-secondary {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #3498db;
+  text-decoration: none;
+  cursor: pointer;
+}
+.btn-pattern:hover, .btn-secondary:hover {
+  background-color: #217dbb;
+}
+
+.btn-secondary {
+  background: #e74c3c;
+}
+
+header {
+  background-color: #3498db;
+  color: #fff;
+  padding: 20px;
+}
+header .btn-pattern, header .btn-secondary {
+  margin-top: 10px;
+}
+
+footer {
+  position: absolute;
+  background-color: black;
+  color: #fff;
+  padding: 10px;
+  width: 100%;
+  height: 100px;
+  bottom: 0;
+}
+
+/*# sourceMappingURL=style.css.map */
