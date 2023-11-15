@@ -19,7 +19,7 @@ Exemplificação do pré-processador CSS denominado SASS
         1.  Download do repositório
         2.  Descompacte para o diretório desejado
         3.  Obseve o package.json e veja o comado a ser executado
-        4.  Execute o comando npm run dev para compilar o style.css
+        4.  Execute o comando npm run dev para gerar o style.css
         5.  Rode a página no navegador de sua preferência
 		
 
