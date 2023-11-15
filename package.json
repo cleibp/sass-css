@@ -1,0 +1,26 @@
+{
+  "name": "sass-css",
+  "version": "1.0.0",
+  "description": "sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "sass --watch style.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleibp/sass-css.git"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "Cleiton Paiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleibp/sass-css/issues"
+  },
+  "homepage": "https://github.com/cleibp/sass-css#readme",
+  "dependencies": {
+    "sass": "^1.69.5"
+  }
+}
