@@ -26,7 +26,10 @@ Exemplificação do pré-processador CSS denominado SASS
 .
 ├── README.md
 ├── index.html
-└── style.css
+├── package-lock.json
+├── package.json
+├── style.css
+└── style.scss
 ```
 
 ## 👋🏽 DEMO
