@@ -20,7 +20,7 @@
     "url": "https://github.com/cleibp/sass-css/issues"
   },
   "homepage": "https://github.com/cleibp/sass-css#readme",
-  "dependencies": {
+  "devDependencies": {
     "sass": "^1.69.5"
   }
 }
